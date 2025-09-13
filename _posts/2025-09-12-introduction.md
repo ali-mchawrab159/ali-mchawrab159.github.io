@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me
+title: Home
 ---
 
 ## Education:
@@ -27,6 +27,10 @@ title: About Me
   Arabic: Mother Tongue
   French: B1/B2 Throughout education
   English: C1 IELTS Band 8.0
+
+## Contact:
+
+E-mail: alimchawrab159@gmail.com
 
 
 
