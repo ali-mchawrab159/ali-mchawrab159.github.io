@@ -5,15 +5,15 @@ title: About Me
 
 ## Education:
 
-# Sep. 2025 - Current:
+### Sep. 2025 - Current:
 
   MSc in Data Science - University of Lille & Centrale Lille
 
-# Nov. 2022 - July 2025:
+### Nov. 2022 - July 2025:
 
   BSc in Computer Science - Lebanese University
 
-# Oct. 2019 - August 2022:
+### Oct. 2019 - August 2022:
 
   Baccalaureate in Life Sciences
 
@@ -24,9 +24,9 @@ title: About Me
 
 ## Linguistic Level:
 
-  # Arabic: Mother Tongue
-  # French: B1/B2 Throughout education
-  # English: C1 IELTS Band 8.0
+  #### Arabic: Mother Tongue
+  #### French: B1/B2 Throughout education
+  #### English: C1 IELTS Band 8.0
 
 
 
