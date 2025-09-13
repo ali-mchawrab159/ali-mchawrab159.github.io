@@ -19,14 +19,14 @@ title: About Me
 
 ## Skills:
 
-  # Programming Languages: C/C++, Java, Python, ...
-  # Concepts: OOP, Database Management, Web Development, Applied Mathematics, ...
+  Programming Languages: C/C++, Java, Python, ...
+  Concepts: OOP, Database Management, Web Development, Applied Mathematics, ...
 
 ## Linguistic Level:
 
-  #### Arabic: Mother Tongue
-  #### French: B1/B2 Throughout education
-  #### English: C1 IELTS Band 8.0
+  Arabic: Mother Tongue
+  French: B1/B2 Throughout education
+  English: C1 IELTS Band 8.0
 
 
 
