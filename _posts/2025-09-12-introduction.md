@@ -32,7 +32,7 @@ title: Home
 
 E-mail: alimchawrab159@gmail.com
 
-## [Business Card][https://github.com/ali-mchawrab159/LaTeX-Business-Card/blob/main/card.pdf]
+## [Personal Business Card][https://github.com/ali-mchawrab159/LaTeX-Business-Card/blob/main/card.pdf]
 
 
 
