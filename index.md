@@ -1,9 +1,6 @@
 ---
 layout: home
 ---
-# Ali Mchawrab
-
-MSc Data Science student.
 
 ## About me
 I am a Master's student in Data Science with interests in artificial intelligence,
